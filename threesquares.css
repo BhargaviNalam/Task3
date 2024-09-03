@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    align-content: center;
+    margin: 500px 200px ;
+}
+.a{
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+}
+.b{
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    
+}
+.c{
+    box-sizing: border-box;
+    border-color: black;
+    border: 2px solid black;
+    width: 80px;
+    height: 80px; 
+    margin: 50px 0px 50px -120px;
+}
+
